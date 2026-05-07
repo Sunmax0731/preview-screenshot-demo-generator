@@ -1,0 +1,10 @@
+{
+  "name": "com.sunmax0731.preview-screenshot-demo-generator",
+  "version": "0.1.0",
+  "displayName": "プレビュー・スクショ・デモ生成",
+  "description": "Animation、Effect、Timeline、UIスクリーンショット、GIF、SampleScene、デモ生成をまとめる。",
+  "unity": "2022.3",
+  "author": {
+    "name": "Sunmax0731"
+  }
+}
