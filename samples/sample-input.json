@@ -1,0 +1,19 @@
+{
+  "product": {
+    "repository": "preview-screenshot-demo-generator",
+    "title": "プレビュー・スクショ・デモ生成"
+  },
+  "items": [
+    {
+      "id": "ok-1",
+      "title": "プレビュー・スクショ・デモ生成 正常ケース",
+      "source": "source-ok",
+      "scene": "scene-ok",
+      "outputPreset": "outputPreset-ok",
+      "owner": "owner-ok",
+      "acceptance": "acceptance-ok",
+      "status": "ready",
+      "sampleScene": "ready"
+    }
+  ]
+}

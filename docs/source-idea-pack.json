@@ -1,0 +1,11 @@
+{
+  "createdIdea": "D:\\AI\\UnityEditor\\created_idea_004_preview-screenshot-demo-generator",
+  "zip": "D:\\AI\\UnityEditor\\created_idea_004_preview-screenshot-demo-generator\\idea_004_preview-screenshot-demo-generator.zip",
+  "rank": 23,
+  "domain": "UnityEditor",
+  "ideaNo": 4,
+  "title": "プレビュー・スクショ・デモ生成",
+  "overview": "Animation、Effect、Timeline、UIスクリーンショット、GIF、SampleScene、デモ生成をまとめる。",
+  "problem": "素材や機能の見え方を共有するためのスクショ、GIF、デモScene作成が手作業になりやすい。",
+  "differentiation": "プレビュー確認から共有用成果物までUnity内で生成する。"
+}
