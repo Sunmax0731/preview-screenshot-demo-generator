@@ -1,0 +1,32 @@
+{
+  "product": "preview-screenshot-demo-generator",
+  "repository": "Sunmax0731/preview-screenshot-demo-generator",
+  "githubUrl": "https://github.com/Sunmax0731/preview-screenshot-demo-generator",
+  "tag": "v0.1.0-alpha.1",
+  "releaseUrl": "https://github.com/Sunmax0731/preview-screenshot-demo-generator/releases/tag/v0.1.0-alpha.1",
+  "prerelease": true,
+  "latest": false,
+  "assetCount": 3,
+  "assets": [
+    "preview-screenshot-demo-generator-docs.zip",
+    "manual-test.md",
+    "strict-manual-test-addendum.md"
+  ],
+  "platformRuntimeGate": "dist/platform-runtime-gate-result.json",
+  "platformType": "unity-editor-package",
+  "manualTest": "not-run-by-codex",
+  "qcdsEvaluation": {
+    "Quality": "S-",
+    "Cost": "S-",
+    "Delivery": "S-",
+    "Satisfaction": "S-",
+    "capReason": "manual-test-not-run-by-codex"
+  },
+  "github": {
+    "repo": "Sunmax0731/preview-screenshot-demo-generator",
+    "url": "https://github.com/Sunmax0731/preview-screenshot-demo-generator",
+    "releaseUrl": "https://github.com/Sunmax0731/preview-screenshot-demo-generator/releases/tag/v0.1.0-alpha.1",
+    "prerelease": true,
+    "latest": false
+  }
+}

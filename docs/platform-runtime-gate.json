@@ -1,0 +1,11 @@
+{
+  "product": "preview-screenshot-demo-generator",
+  "title": "プレビュー・スクショ・デモ生成",
+  "domain": "UnityEditor",
+  "ideaNo": 4,
+  "platformType": "unity-editor-package",
+  "expectedPublicTarget": "GitHub Release / BOOTH",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}

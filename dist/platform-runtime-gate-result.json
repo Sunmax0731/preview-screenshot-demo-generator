@@ -1,0 +1,10 @@
+{
+  "product": "preview-screenshot-demo-generator",
+  "platformType": "unity-editor-package",
+  "pass": true,
+  "method": "runtime-gate",
+  "manualTest": "not-run-by-codex",
+  "packageFile": "package.json",
+  "editorScript": "Packages/com.sunmax0731.preview-screenshot-demo-generator/Editor/PreviewScreenshotDemoGeneratorWindow.cs",
+  "hostExecution": "Unity executable not available in this environment; importable package structure verified."
+}

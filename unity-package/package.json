@@ -1,0 +1,10 @@
+{
+  "name": "com.sunmax0731.preview-screenshot-demo-generator",
+  "displayName": "プレビュー・スクショ・デモ生成",
+  "version": "0.1.0-alpha.1",
+  "unity": "2022.3",
+  "description": "preview-screenshot-demo-generator closed alpha Unity editor package",
+  "author": {
+    "name": "Sunmax0731"
+  }
+}
